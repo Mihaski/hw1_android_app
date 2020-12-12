@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vova_petich">vova petich</string>
+    <string name="vova_sosat_biba">vova sosat biba</string>
+    <string name="vova_nerd">vova nerd</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+</resources>
